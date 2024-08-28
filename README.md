@@ -1,9 +1,5 @@
 **Metaprogramming**
 
-About the project:
-
----
-
 ## Requirements
 - Add virtual environment to be able to run app and run tests
 
